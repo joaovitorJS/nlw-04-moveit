@@ -21,10 +21,12 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> •
+   <a href="#-sobre-o-projeto">Sobre</a> •
+   <a href="#-layout">Layout</a> • 
+   <a href="#-como-executar-este-projeto">Como executar</a> • 
+   <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-autor">Autor</a> •
+  <a href="#-licenca">Licença</a> 
 </p>
 
 ## 💻 Sobre o projeto
@@ -84,15 +86,38 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 em seu navegador
+```
+---
+
+### ⚙️ Tecnologias
+
+* **[TypeScript](https://www.typescriptlang.org/)**
+* **[ReactJS](https://pt-br.reactjs.org/)**
+* **[NextJS](https://nextjs.org/)**
+* **[JS-Cookie](https://www.npmjs.com/package/js-cookie)**
+
+> Veja o arquivo  [package.json](https://github.com/joaovitorJS/nlw-04-moveit/blob/master/package.json)
 
 ---
 
+### 👨🏻‍💻 Autor
+<br>
 
+**[João Vitor](https://github.com/joaovitorJS)**
 
+#### Entre em contato
 
+<p>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/" target="_blank">
+ <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+&nbsp;
+<a href="mailto:rgm38342@comp.uems.br">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
 
+---
 
-
-
-
-
+### 📝 Licença
+Este projeto esta sobe a licença [MIT](https://opensource.org/licenses/MIT).
