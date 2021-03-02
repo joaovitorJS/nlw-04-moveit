@@ -21,12 +21,12 @@
 </h4>
 
 <p align="center">
-   <a href="#-sobre-o-projeto">Sobre</a> •
-   <a href="#-layout">Layout</a> • 
-   <a href="#-como-executar-este-projeto">Como executar</a> • 
-   <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-autor">Autor</a> •
-  <a href="#-licenca">Licença</a> 
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-este-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#-licença">Licença</a>
 </p>
 
 ## 💻 Sobre o projeto
@@ -89,7 +89,7 @@ $ npm run dev
 ```
 ---
 
-### ⚙️ Tecnologias
+## 🛠 Tecnologias
 
 * **[TypeScript](https://www.typescriptlang.org/)**
 * **[ReactJS](https://pt-br.reactjs.org/)**
@@ -100,7 +100,7 @@ $ npm run dev
 
 ---
 
-### 👨🏻‍💻 Autor
+## 👨🏻‍💻 Autor
 <br>
 
 **[João Vitor](https://github.com/joaovitorJS)**
@@ -119,5 +119,5 @@ $ npm run dev
 
 ---
 
-### 📝 Licença
+## 📝 Licença
 Este projeto esta sobe a licença [MIT](https://opensource.org/licenses/MIT).
