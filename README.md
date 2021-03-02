@@ -52,3 +52,47 @@ Porém nessa aplicação após 25 minutos é disponibilizado um desafio, um pequ
  </p>
  
 ---
+
+## 🚀 Como executar este projeto 
+
+### Pré-requisitos
+Para executar esta aplicação, você deverá ter instalado em sua máquina as seguintes ferramentas:
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/get-npm) ou [Yarn](https://yarnpkg.com/)
+
+### 🎲 Rodando a aplicação web
+```bash
+# Clone este repositório -> usando SSH
+$ git clone git@github.com:joaovitorJS/nlw-04-moveit.git
+
+# Acesse a pasta do projeto no seu terminal
+$ cd nlw-04-moveit
+
+## Passos com yarn
+# Instale as dependências
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+## Passos com npm
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000 em seu navegador
+
+---
+
+
+
+
+
+
+
+
+
+
