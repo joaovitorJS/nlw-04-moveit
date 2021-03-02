@@ -20,6 +20,21 @@
  Moveit 1.0 | Concluído 🚀 
 </h4>
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> •
+</p>
+
+## 💻 Sobre o projeto
+O **Moveit** é uma aplicação que aplica o método de Pomodoro🍎. Esse método consiste em a pessoa realizar uma determinada tarefa em 25 minutos, sendo ela concluída ou não, a pessoa deve parar e descansar 5 minutos.
+Porém nessa aplicação após 25 minutos é disponibilizado um desafio, um pequeno exercício para aliviar a tensão e relaxar o corpo. A cada desafio completado a pessoa ganha pontos (xp) para subir de nível.
+<br>
+##### Projeto desenvolvido durante a **NLW#04 - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+
+---
+
 <div>
   <video src="./public/plus/howUse.mp4" autoplay muted style="width: 700px; height: 800px">
   </video>
