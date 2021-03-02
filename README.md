@@ -35,7 +35,20 @@ Porém nessa aplicação após 25 minutos é disponibilizado um desafio, um pequ
 
 ---
 
-<div>
-  <video src="./public/plus/howUse.mp4" autoplay muted style="width: 700px; height: 800px">
-  </video>
-</div>
+## 🎨 Layout
+<a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0?node-id=160%3A2761">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+### Web
+
+<p align="center">
+  <img src="./public/plus/demo.gif" alt="Demostração de uso" title="Exemplo do App Web" width="900px"/>
+</p>
+ <br>
+ <p align="center">
+    <img src="./public/plus/layout.png" alt="Layout Inicial" width="450px" height="270px"/>
+    <img src="./public/plus/layout3.png" alt="Subindo de Level" width="450px" height="270px"/>
+ </p>
+ 
+---
